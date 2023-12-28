@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "BOT",
+  "steps": [
+    {
+      "file": "bot.py",
+      "description": "Butao no inicio \r\n",
+      "line": 17
+    },
+    {
+      "file": "bot.py",
+      "description": "Verifica se o id da pessoa esta na lista no incio quando pede o id ",
+      "line": 55
+    }
+  ]
+}
